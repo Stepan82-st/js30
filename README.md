@@ -1,2 +1,2 @@
 
-# [eco-sound](https://github.io/stepan82-st/eco-sound/)
+# [eco-sound](https://stepan82-st.github.io/js30/eco-sound/)
