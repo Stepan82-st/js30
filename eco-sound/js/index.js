@@ -1,4 +1,3 @@
- import playList from './music.js';
 
 const audio = document.querySelector('audio');
 const playBtn = document.querySelector('.control');
