@@ -1,8 +1,6 @@
-
 const audio = document.querySelector('audio');
 const playBtn = document.querySelector('.control');
 const tema = document.querySelectorAll('[data-bird]');
-const logo = document.querySelector('.header_logo');
 const mainImag = document.querySelector('.video-img');
 
 function playAudio() {
