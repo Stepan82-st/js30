@@ -1,0 +1,37 @@
+:root {
+    --color-gold: #bdae82;
+    --color-black: #000;
+    --font2: 40px;
+    --font1: 80px;
+  --padding: 75px;
+
+  }
+  * {
+  
+      -webkit-transition: all 0.3s ease;
+      -moz-transition: all 0.3s ease;
+      -o-transition: all 0.3s ease;
+      -ms-transition: all 0.3s ease;
+      transition: all 0.3s ease;
+  }
+html {
+    scroll-behavior: smooth; 
+}
+
+  body {
+    display: flex;
+    flex-direction: column;
+      margin: 0 auto;
+      padding: 0;
+      max-width: 1920px;
+      min-width: 320px;
+    background-position: center;
+     background-color: var(--color-black);
+     justify-content: space-between;
+  }
+  .main{
+      position: relative;
+   max-width: 1920px;
+   max-height: 1020px;
+  background-color:darkorange; 
+  }
