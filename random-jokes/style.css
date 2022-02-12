@@ -55,10 +55,19 @@ html {
       font-size: 20px;
 
   }
+  .btn:focus {
+    color: red;
+  }
   .btn:hover{
       background-color: #000;
   }
-
+.input{
+    position: absolute;
+    left: 20%;
+    top: 65%;
+    color: blue;
+    font-size: 20px;
+}
   .footer-items{
     display: grid;
     grid-template-columns: 2fr 1fr 0fr;
