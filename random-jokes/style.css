@@ -55,13 +55,18 @@ html {
       font-size: 20px;
 
   }
+  .btn:focus {
+    color: red;
+  }
   .btn:hover{
       background-color: #000;
   }
 .input{
     position: absolute;
-    left: 39%;
+    left: 20%;
     top: 65%;
+    color: blue;
+    font-size: 20px;
 }
   .footer-items{
     display: grid;
